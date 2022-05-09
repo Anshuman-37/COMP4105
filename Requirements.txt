@@ -1,0 +1,14 @@
+
+
+
+######################## Dependencies to download #########################
+
+
+
+
+pygooglenews 
+newspaper3k
+transformers
+bert-extractive-summarizer 
+streamlit
+stqdm
