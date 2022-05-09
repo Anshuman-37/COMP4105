@@ -1,11 +1,11 @@
 # This is the code for Designing Intelligent Agents coursework 
 
-###Install the *requirements.txt* to install all the dependencies 
+### Install the *requirements.txt* to install all the dependencies 
 ###
 
 If it fails these are the mentioned dependencies please install them manually
 
-######################## *Mentioned Dependencies* ########################
+------------------- *Mentioned Dependencies* -------------------
 pip install pygooglenews --upgrade
 pip install newspaper3k
 pip install transformers
@@ -14,7 +14,7 @@ pip install streamlit
 pip install stqdm
 
 
-######################## *Running the Agent* ########################
+------------------- *Running the Agent* -------------------
 
 To run the code in local machine please use app.py and in the terminal run the following command
 
@@ -29,7 +29,7 @@ To run the code in colab
     and then run the following command
     ***!streamlit run app.py & npx localtunnel --port 8501**** 
     
---------------------------------
+------------------- *Performance of the agent* -------------------
 
 The performance of the agent and the Rogue score is stored in performance.txt
 
