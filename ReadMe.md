@@ -42,11 +42,16 @@ Change the Colab environment to GPU
     
 Please upload app.py in the colab local runtime
     
-In the cell install the requirement.txt or manuall install the requirements *Please note that for intalling commands in colab cell start with ! for example pip install will be !pip install*
-    
-and then run the following command
+In the cell install the requirement.txt or manuall install the requirements *Please note that for installing commands in colab cell start with ! for example pip install will be !pip install*
+   
+<img width="474" alt="Screenshot 2022-05-09 at 6 36 40 PM" src="https://user-images.githubusercontent.com/41586858/167465889-23b9b607-a426-443c-b8fa-3d27b470839d.png">
+
+and then run the following command.
 
 ***!streamlit run app.py & npx localtunnel --port 8501***
+
+<img width="728" alt="Screenshot 2022-05-09 at 6 38 51 PM" src="https://user-images.githubusercontent.com/41586858/167466212-efd53a82-adfe-4104-aca4-304f213c8554.png">
+
 
 There will be a link generated please click on the given link and then accept the prompt, 
 The following images shows is please click on *your url is* and then you will be redirected to a website
