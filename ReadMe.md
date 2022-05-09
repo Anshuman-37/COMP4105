@@ -29,14 +29,15 @@ To run the code in local machine please use app.py and in the terminal run the f
 
 To run the code in colab
 
-    Change the Colab environment to GPU
+Change the Colab environment to GPU
     
-    Please upload app.py in the colab local runtime
+Please upload app.py in the colab local runtime
     
-    In the cell install the requirement.txt or manuall install the requirements *Please note that for intalling commands in colab cell start with ! for example pip install will be !pip install*
+In the cell install the requirement.txt or manuall install the requirements *Please note that for intalling commands in colab cell start with ! for example pip install will be !pip install*
     
-    and then run the following command
-    ***!streamlit run app.py & npx localtunnel --port 8501**** 
+and then run the following command
+
+***!streamlit run app.py & npx localtunnel --port 8501**** 
     
 
 ------------------- *Performance of the agent* -------------------
