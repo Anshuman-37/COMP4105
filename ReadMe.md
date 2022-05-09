@@ -8,12 +8,12 @@ If it fails these are the mentioned dependencies please install them manually
 ------------------- *Mentioned Dependencies* -------------------
 
 
-pip install pygooglenews --upgrade
-pip install newspaper3k
-pip install transformers
-pip install bert-extractive-summarizer 
-pip install streamlit
-pip install stqdm
+    pip install pygooglenews --upgrade
+    pip install newspaper3k
+    pip install transformers
+    pip install bert-extractive-summarizer 
+    pip install streamlit
+    pip install stqdm
 
 
 ------------------- *Running the Agent* -------------------
