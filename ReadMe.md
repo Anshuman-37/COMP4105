@@ -38,7 +38,20 @@ In the cell install the requirement.txt or manuall install the requirements *Ple
 and then run the following command
 
 ***!streamlit run app.py & npx localtunnel --port 8501***
-    
+
+There will be a link generated please click on the given link and then accept the prompt, 
+The following images shows is please click on *your url is* and then you will be redirected to a website
+
+<img width="782" alt="Screenshot 2022-05-09 at 2 44 40 PM" src="https://user-images.githubusercontent.com/41586858/167423509-14b27207-d473-49fd-b401-ab1387d5c37a.png">  
+
+Please click on click to continue and then you can see the results.
+<img width="872" alt="Screenshot 2022-05-09 at 2 47 38 PM" src="https://user-images.githubusercontent.com/41586858/167424110-b43495c6-76ec-494c-98eb-00c97522a202.png">
+
+
+The result should look something like this
+
+<img width="773" alt="Screenshot 2022-05-09 at 2 49 53 PM" src="https://user-images.githubusercontent.com/41586858/167424606-7f4e1e8e-cfb1-48c4-adcb-4456caf2ed32.png">
+
 
 ------------------- *Performance of the agent* -------------------
 
