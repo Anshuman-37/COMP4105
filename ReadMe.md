@@ -1,11 +1,14 @@
 # This is the code for Designing Intelligent Agents coursework 
 
 ### Install the *requirements.txt* to install all the dependencies 
-###
+
+<img width="667" alt="Screenshot 2022-05-09 at 6 21 47 PM" src="https://user-images.githubusercontent.com/41586858/167463593-6fda6af9-051d-41e4-90bb-9984dc2c4693.png">
+
 
 If it fails these are the mentioned dependencies please install them manually
 
-------------------- *Mentioned Dependencies* -------------------
+
+### ------------------- *Mentioned Dependencies* -------------------
 
 
     pip install pygooglenews --upgrade
@@ -15,17 +18,23 @@ If it fails these are the mentioned dependencies please install them manually
     pip install streamlit
     pip install stqdm
 
+-------------------------------
 
-------------------- *Running the Agent* -------------------
+### ------------------- *Running the Agent* -------------------
 
+#### Running the code on local machine
 
 To run the code in local machine please use app.py and in the terminal run the following command
 
 ***streamlit run app.py*** *Please note that it will take a bit time for the first time to donwload the weights for bert* 
 
+<img width="1068" alt="Screenshot 2022-05-09 at 6 23 26 PM" src="https://user-images.githubusercontent.com/41586858/167463868-a64e0105-2573-4412-905d-df546fd1e657.png">
+
 
 -------------------------------
 
+
+#### Runing the code in colab 
 
 To run the code in colab
 
@@ -53,10 +62,15 @@ The result should look something like this
 <img width="773" alt="Screenshot 2022-05-09 at 2 49 53 PM" src="https://user-images.githubusercontent.com/41586858/167424606-7f4e1e8e-cfb1-48c4-adcb-4456caf2ed32.png">
 
 
-------------------- *Performance of the agent* -------------------
+------------------------------------------
+
+### ------------------- *Performance of the agent* -------------------
 
 
-The performance of the agent and the Rogue score is stored in performance.txt
+The performance of the agent and the Rogue score is stored in performance.txt. The performance.txt contains all the result for the summaries made
+
+
+<img width="1469" alt="Screenshot 2022-05-09 at 6 29 49 PM" src="https://user-images.githubusercontent.com/41586858/167464827-4d026847-f3e9-43e9-a554-581e9269617b.png">
 
 
 
