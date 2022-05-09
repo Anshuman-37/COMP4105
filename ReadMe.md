@@ -37,7 +37,7 @@ In the cell install the requirement.txt or manuall install the requirements *Ple
     
 and then run the following command
 
-***!streamlit run app.py & npx localtunnel --port 8501**** 
+***!streamlit run app.py & npx localtunnel --port 8501***
     
 
 ------------------- *Performance of the agent* -------------------
