@@ -72,7 +72,7 @@ The result should look something like this
 ### ------------------- *Performance of the agent* -------------------
 
 
-The performance of the agent and the Rogue score is stored in performance.txt. The performance.txt contains all the result for the summaries made
+The performance of the agent and the Rogue score is stored in performance.txt. The performance.txt contains all the result for the summaries made. Rogue Score for all the news have been calculated personally. 
 
 
 <img width="1469" alt="Screenshot 2022-05-09 at 6 29 49 PM" src="https://user-images.githubusercontent.com/41586858/167464827-4d026847-f3e9-43e9-a554-581e9269617b.png">
